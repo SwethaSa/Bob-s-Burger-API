@@ -1,0 +1,39 @@
+
+  .character {
+    text-align: center;
+  }
+  .character img {
+    height: 200px;
+    width: 150px;
+    border: 2px solid black;
+    margin-top: 1cm;
+  }
+  .character h3 {
+    margin-top: 20px;
+  }
+  
+  body{
+    background-color: black;
+    color: white;
+  }
+  h3, h1{
+    color:white;
+    text-shadow: 2px 4px 4px #FF00FF;
+  }
+  h1{
+    text-align: center;
+
+    margin-top: 50px;
+  }
+  
+  a:link {
+    color: #DF73FF;
+    overflow-wrap: break-word;
+  }
+
+  p, h3, img{
+    overflow-wrap: break-word;
+
+  }
+
+  
